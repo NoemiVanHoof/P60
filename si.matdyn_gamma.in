@@ -1,0 +1,7 @@
+&INPUT
+  asr = 'crystal',
+  flfrc = 'si.fc',
+  flfrq = 'si.gamma'
+/
+1
+0.0 0.0 0.0  1
