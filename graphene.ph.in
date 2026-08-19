@@ -1,0 +1,10 @@
+&inputph
+  prefix   = 'graphene'
+  outdir   = './out/'
+  fildyn   = 'graphene.dyn'
+  amass(1) = 12.0107
+  tr2_ph   = 1.0d-10
+  reduce_io = .false.    ! more verbose file I/O
+  verbosity = 'high'
+/
+0.0 0.0 0.0

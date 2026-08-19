@@ -1,0 +1,4 @@
+&input
+  fildyn = 'graphene.dynmat'
+  asr    = 'simple'
+/
